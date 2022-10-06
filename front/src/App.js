@@ -1,4 +1,4 @@
-import Signup from './views/signup' // load view
+import Signup from './views/signup'
 import Form from './components2/Form'
 
 function App() {
